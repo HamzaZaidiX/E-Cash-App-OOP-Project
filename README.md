@@ -2,7 +2,14 @@
 
 E - Cash App (Banking Management System) 🤑💸 By Java FX, Swing, SQL &amp; XML also this Project is GUI based; 
 This is the my University Project of Object Oriented Programming Course related Final Project 
-**In This Project which we can open Bank Account, Deposit Money, Widthdraw our Money & Bank Transactions.**
+
+## Features:
+
+- Open your Bank Account,
+-  Deposit your Money, 
+-  Widthdraw your Money
+-  Do your Bank Transactions.
+-  Also get your Name on List
 
 https://hamzajaffar.github.io/E-Cash-App/
 
