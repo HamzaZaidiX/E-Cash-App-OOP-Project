@@ -1,12 +1,12 @@
 # E-Cash-Banking-System-by-Java:
 
-E - Cash App (Banking Management System) 🤑 By Java Swing, SQL &amp; XML ; 
+E - Cash App (Banking Management System) 🤑💸 By Java FX, Swing, SQL &amp; XML also this Project is GUI based; 
 This is the my University Project of Object Oriented Programming Course related Final Project 
 **In This Project which we can open Bank Account, Deposit Money, Widthdraw our Money & Bank Transactions.**
 
 https://hamzajaffar.github.io/E-Cash-App/
 
-**Note:** If you want to Run this Project u have to run by MySql Workstation and also connect this project to your database
+**Note:** If you want to Run this Project u have to run by **MySql Workstation** and also connect this project to your Database & your Code Editor (Preferred: Eclipse)
 
 # Output-Screenshots:
 
@@ -15,4 +15,11 @@ https://hamzajaffar.github.io/E-Cash-App/
 ![3](https://user-images.githubusercontent.com/52501040/130926188-0c57ad76-877a-4001-984d-6c5a10bdc08f.PNG)
 ![4](https://user-images.githubusercontent.com/52501040/130926191-4ed47da8-eae4-4034-8a80-9c0f1737d5bc.PNG)
 
-**PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE HAMZA ZAIDI SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛**
+# Licence
+
+MIT LICENCE
+Read `Licence` document for more details
+
+# Bye! 👋
+
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
